@@ -19,3 +19,9 @@ to run the project:
 
     For normal users:
         Register new user
+        
+    To run tests:
+        php artisan test
+        or
+        vendor/bin/phpunit
+
